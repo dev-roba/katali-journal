@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katali Journal</title>
+    <link>https://katalijournal.example</link>
+    <description>Essays on craft, code &amp; the spaces between</description>
+    <language>en</language>
+    <atom:link href="https://katalijournal.example/posts/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Quiet Discipline of a Personal Website</title>
+      <link>https://katalijournal.example/blog/the-quiet-discipline-of-a-personal-website</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/the-quiet-discipline-of-a-personal-website</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <category>practice</category>
+      <description>A personal site is not a portfolio. It is a practice — a way of thinking in public, slowly, on the internet that only rewards speed.</description>
+    </item>
+    <item>
+      <title>What Moving to Nairobi Taught Me About Latency</title>
+      <link>https://katalijournal.example/blog/what-moving-to-nairobi-taught-me-about-latency</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/what-moving-to-nairobi-taught-me-about-latency</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+      <category>engineering</category>
+      <description>Two hundred milliseconds changes how you design. A year of building and browsing from East Africa is a masterclass in the real cost of the prettiest code you can write.</description>
+    </item>
+    <item>
+      <title>Designing for Slow Connections</title>
+      <link>https://katalijournal.example/blog/designing-for-slow-connections</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/designing-for-slow-connections</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <category>design</category>
+      <description>Performance is a design material. When latency is scarce, layout, typography, and motion all fall into line behind one question: what should the user see first?</description>
+    </item>
+    <item>
+      <title>Why I Write My Own CSS Instead of a Framework</title>
+      <link>https://katalijournal.example/blog/why-i-write-my-own-css-instead-of-a-framework</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/why-i-write-my-own-css-instead-of-a-framework</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+      <category>engineering</category>
+      <description>Black velvet notebooks, seventy-five CSS variables, and a stubborn belief that one person's utility layer can be another person's actual design system.</description>
+    </item>
+    <item>
+      <title>The Case for Boring Technology</title>
+      <link>https://katalijournal.example/blog/the-case-for-boring-technology</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/the-case-for-boring-technology</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+      <category>product</category>
+      <description>New tools are exciting. Old tools ship. A defense of the unglamorous stack that quietly meets its deadline, every time, for years.</description>
+    </item>
+    <item>
+      <title>On Finding Your Voice in Public</title>
+      <link>https://katalijournal.example/blog/on-finding-your-voice-in-public</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/on-finding-your-voice-in-public</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+      <category>culture</category>
+      <description>Impostor syndrome and the internet are a matched pair. A personal essay about writing more loudly, more often, and more kindly.</description>
+    </item>
+    <item>
+      <title>Field Notes: A Weekend in Lake Naivasha</title>
+      <link>https://katalijournal.example/blog/field-notes-a-weekend-in-lake-naivasha</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/field-notes-a-weekend-in-lake-naivasha</guid>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+      <category>travel</category>
+      <description>Flat-calm water, papyrus birds, and the particular stillness of a place where the network drops out and nobody panics.</description>
+    </item>
+    <item>
+      <title>The Tyranny of the Infinite Feed</title>
+      <link>https://katalijournal.example/blog/the-tyranny-of-the-infinite-feed</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/the-tyranny-of-the-infinite-feed</guid>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+      <category>culture</category>
+      <description>Endless scroll is not a feature, it is an architecture of avoidance. Why I installed brakes on the internet and started reading like it was 2010.</description>
+    </item>
+    <item>
+      <title>Notes on Building a Personal Knowledge System</title>
+      <link>https://katalijournal.example/blog/notes-on-building-a-personal-knowledge-system</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/notes-on-building-a-personal-knowledge-system</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+      <category>practice</category>
+      <description>No fancy tools. Just a folder, a naming convention, and the discipline of writing your future self a mail you will actually read.</description>
+    </item>
+    <item>
+      <title>Accessibility Is a Performance Budget</title>
+      <link>https://katalijournal.example/blog/accessibility-is-a-performance-budget</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/accessibility-is-a-performance-budget</guid>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+      <category>design</category>
+      <description>Screen readers and slow phones are the same sentence. A practical case for treating a11y like the performance constraint it always was.</description>
+    </item>
+    <item>
+      <title>Slow Food, Fast Code: Lessons from the Kitchen</title>
+      <link>https://katalijournal.example/blog/slow-food-fast-code-lessons-from-the-kitchen</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/slow-food-fast-code-lessons-from-the-kitchen</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <category>practice</category>
+      <description>Sous vide as a deployment strategy. Mise en place as a refactor. What a weekend of cooking taught me about running services people depend on.</description>
+    </item>
+    <item>
+      <title>Shipping Small: A Manifesto for Indie Builders</title>
+      <link>https://katalijournal.example/blog/shipping-small-a-manifesto-for-indie-builders</link>
+      <guid isPermaLink="true">https://katalijournal.example/blog/shipping-small-a-manifesto-for-indie-builders</guid>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
+      <category>product</category>
+      <description>The roadmaps are the trap. The tiny, boring, finished product is the moat. Why small might be the only sustainable strategy left.</description>
+    </item>
+  </channel>
+</rss>

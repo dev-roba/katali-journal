@@ -1,0 +1,30 @@
+[
+  {
+    "family": "Fraunces",
+    "style": "italic",
+    "weight": "300 900",
+    "localPath": "/fonts/fraunces-variable-italic.woff2",
+    "bytes": 81520
+  },
+  {
+    "family": "Fraunces",
+    "style": "normal",
+    "weight": "300 900",
+    "localPath": "/fonts/fraunces-variable-normal.woff2",
+    "bytes": 67304
+  },
+  {
+    "family": "Inter",
+    "style": "italic",
+    "weight": "300 700",
+    "localPath": "/fonts/inter-variable-italic.woff2",
+    "bytes": 51832
+  },
+  {
+    "family": "Inter",
+    "style": "normal",
+    "weight": "300 700",
+    "localPath": "/fonts/inter-variable-normal.woff2",
+    "bytes": 48256
+  }
+]
